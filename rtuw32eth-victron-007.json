@@ -1,6 +1,10 @@
 {
   "name": "rtuw32eth-victron-007",
   "version": "1.0.1",
+  "project": {
+    "name": "ghcomunicaciones.rtu",
+    "version": "1.0.1"
+  },
   "builds": [
     {
       "chipFamily": "ESP32",
