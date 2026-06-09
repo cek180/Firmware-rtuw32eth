@@ -5,7 +5,7 @@
     {
       "chipFamily": "ESP32",
       "ota": {
-        "path": "https://raw.githubusercontent.com/cek180/Firmware-rtuw32eth/refs/heads/main/rtuw32eth-victron-007.bin"
+        "path": "https://raw.githubusercontent.com/cek180/Firmware-rtuw32eth/refs/heads/main/rtuw32eth-victron-007.ota.bin"
       }
     }
   ]
