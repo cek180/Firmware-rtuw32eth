@@ -1,4 +1,4 @@
 {
-  "version": "2.0.0",
-  "firmware_url": "https://github.com/cek180/Firmware-rtuw32eth/raw/refs/heads/main/rtuw32-0000.factory.bin"
+  "version": "1.1.2",
+  "firmware_url": "https://github.com/cek180/Firmware-rtuw32eth/raw/refs/heads/main/rtuw32eth-victron-007.ota.bin"
 }
